@@ -35,3 +35,7 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+# Infrastructure as Code Definitions
+/src/**/*.json
+/compute/**/*.json
