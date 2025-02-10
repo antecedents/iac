@@ -38,4 +38,5 @@ terraform.rc
 
 # Infrastructure as Code Definitions
 /src/**/*.json
+/src/**/*.yaml
 /compute/**/*.json
