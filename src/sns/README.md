@@ -1,8 +1,11 @@
 <br>
 
-## Simple Notification Service
+## Amazon Simple Notification Service (SNS)
 
-For notifications.
+Key:
+* [description](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sns/index.html)
+* [creating a topic](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sns/create-topic.html)
+* [subscribing to a topic](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sns/subscribe.html)
 
 <br>
 <br>
