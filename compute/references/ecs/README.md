@@ -2,7 +2,7 @@
 
 ## ECS (Elastic Container Service)
 
-The `references`, `raw`, and `futures` tasks share the same ECS (Elastic Container Service) cluster.
+The `references`, `raw`, and `futures` modules share the same ECS (Elastic Container Service) cluster.
 
 Of interest:
 * [description: ecs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/index.html)
