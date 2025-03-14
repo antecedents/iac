@@ -2,7 +2,7 @@
 
 ## ECS (Elastic Container Service)
 
-The `raw` & `references` tasks [share the same ECS (Elastic Container Service) cluster](../../references/ecs/cluster/).
+The `raw` & `references` tasks share the same ECS (Elastic Container Service) cluster.
 
 Of interest:
 * [description: ecs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/index.html)
