@@ -11,8 +11,6 @@ Of interest:
 * [description: logs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/index.html)
   * CloudWatch Logs
 
-
-
 <br>
 <br>
 
